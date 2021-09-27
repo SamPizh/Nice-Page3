@@ -1,0 +1,127 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.herobg {
+    background-image: url(../Images/hero-bg.jpg);
+    background-position: 49% 1;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bgb {
+    background: rgb(2,0,36);
+    background: linear-gradient(106deg, rgb(245, 245, 245) 0%, rgb(199, 199, 199) 79%, rgb(97, 98, 99) 100%);
+    
+}
+.nil {
+    margin-top: 10%;
+
+}
+.nil h1 {
+    font-size: 59px;
+}
+.border-5 {
+    border-color: #e71a23;
+}
+i { 
+    color: black;
+}
+.img {
+    background-image: url(../Images/billionphotos1079319min.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.log {
+    width: 49px; 
+    text-align: center;
+    height: 49px; 
+    background-color: red; 
+    border-radius: 95px;
+}
+.fa-bold {
+    text-align: center;
+    padding-top: 4%;
+}
+.bgb2 {
+    background-color: rgb(65, 65, 153);
+}
+.nill {
+    display: grid;
+    justify-content: center;
+    
+
+}
+.texts {
+    font-size: 1rem;
+    line-height: 0%;
+    text-transform: uppercase;
+    
+}
+.nill h1 {
+    font-size: 89px;
+    font-weight: normal;
+    line-height: 5rem;
+}
+#pan {
+    font-weight: bolder;
+}
+.pil5 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.sec5 { 
+    width: 69%;
+    text-align: center;
+}
+.sec5 h2{ 
+    font-weight: bolder;
+}
+.p {
+    display: flex;
+    justify-content: center;
+}
+.p p {
+width: 71%;
+font-size: 1.125rem;
+}
+
+/* * 
+/* * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+
+}
+.container {
+
+}
+.container header {
+    display: flex;
+    justify-content: space-between;
+    height: 69px;
+    padding: 19px 49px;
+    
+}
+.dropdown ul {
+    list-style: none;
+    display: flex;
+}
+.dropdown ul li {
+    padding-left: 19px;
+}
+.con1 {
+    height: 85vh;
+    background-color: violet;
+}
+.first {
+    text-transform: uppercase;
+    width: 55%;
+    background-color: whitesmoke;
+    height: 100%;
+} */
