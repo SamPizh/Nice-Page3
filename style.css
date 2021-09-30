@@ -39,8 +39,8 @@
     height: 49px; 
     background-color: red; 
     border-radius: 95px;
-    color: white;
-    padding-top: 1rem;
+    color: white !important;
+    padding-top: 1rem !important;
 }
 .btn {
     background-color: #e71a23; color: white;
